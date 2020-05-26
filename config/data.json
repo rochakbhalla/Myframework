@@ -1,0 +1,6 @@
+{
+"test_01": 
+    {"name" : "rochak", "city" : "pune", "job": "engineer"},
+"test_02":
+    {"name":"shubham", "city": "gurgaon", "job":"laywer"}
+}
